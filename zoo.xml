@@ -1,0 +1,11 @@
+<zoo.Zoo>
+  <NB__MAX__VISITEUR__PAR__SECTEUR>15</NB__MAX__VISITEUR__PAR__SECTEUR>
+  <name>Nom</name>
+  <visiteurs>3</visiteurs>
+  <secteursAnimaux>
+    <zoo.Secteur>
+      <typeAnimauxDansSecteur>CHAT</typeAnimauxDansSecteur>
+      <animauxDansSecteur/>
+    </zoo.Secteur>
+  </secteursAnimaux>
+</zoo.Zoo>
